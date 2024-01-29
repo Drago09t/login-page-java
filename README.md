@@ -2,7 +2,7 @@
 login page || fronend and backend || Using Java, sql
 # Features
 
-## ata view form 
+## data view form 
 
 ## data enter form 
 
