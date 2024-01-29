@@ -1,5 +1,5 @@
 # login-page-java
-login page || fronend and backend || Using Java, sql
+login page || frontend and backend || Using Java, sql
 # Features
 
 ## Login-form
